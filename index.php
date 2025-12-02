@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de IMC - Actividad 03</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <div class="main-container">
+        <?php 
+            include('includes/header.html');
+            include('includes/form.html');
+            include('includes/footer.html');
+        ?>
+    </div>
+</body>
+</html>
